@@ -1,3 +1,5 @@
+# 🩺 DocSpot – Seamless Appointment Booking for Health 📅
+
 A digital healthcare platform to simplify doctor-patient interaction. This app allows users to book, reschedule, and attend doctor appointments online. It supports profile browsing, real-time scheduling, digital consultation, and record management — all from a single, user-friendly interface.
 
 ---
