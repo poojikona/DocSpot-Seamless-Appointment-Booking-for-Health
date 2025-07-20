@@ -1,8 +1,9 @@
-#🩺📅 DocSpot-Seamless-Appointment-Booking-for-Health
+##🩺📅 DocSpot-Seamless-Appointment-Booking-for-Health
+
        DocSpot is a user-friendly platform designed to simplify the way patients connect with healthcare providers. With a clean, intuitive interface, DocSpot allows users to quickly search for doctors, view detailed provider profiles, check availability in real time, and book appointments instantly—anytime, anywhere.
        Whether you need a general check-up, a specialist consultation, or a quick telehealth session, DocSpot connects you with trusted healthcare professionals in just a few taps. 🧑‍⚕️📲
 
-#🎯 Project Objectives
+##🎯 Project Objectives
 🩺 Simplify Healthcare Access
 Make it easy for patients to find and book appointments with doctors and specialists.
 
